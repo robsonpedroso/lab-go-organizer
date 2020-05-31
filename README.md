@@ -50,6 +50,10 @@ Existem 3 parâmetros no projeto:
 
 Se não for passado nenhum parâmetro, será solicitado o diretório de origem e de destino.
 
+## Funcionamento
+
+![funcionamento](https://github.com/robsonpedroso/lab-go-organizer/blob/master/git-go-organizer.gif)
+
 ## Publicação
 
 Não foi publicado
