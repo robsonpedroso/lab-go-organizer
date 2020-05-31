@@ -60,7 +60,7 @@ Não foi publicado
 
 ## License
 
-[MIT](https://github.com/robsonpedroso/lag-go-organizer/blob/master/LICENSE)
+[MIT](https://github.com/robsonpedroso/lab-go-organizer/blob/master/LICENSE)
 
 ## Ferramentas
 
